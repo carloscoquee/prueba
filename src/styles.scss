@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~animate.css/animate.min.css';
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html, body{
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  color:#222;
+}
